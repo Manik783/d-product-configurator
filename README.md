@@ -1,1 +1,1 @@
-# d-product-configurator
+# 3d-product-configurator
