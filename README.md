@@ -34,8 +34,8 @@ A modern interactive 3D product configurator built with React, Three.js, and Rea
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/3d-product-configurator.git
-cd 3d-product-configurator
+git clone https://github.com/Manik783/d-product-configurator.git
+cd d-product-configurator
 ```
 
 2. Install dependencies
@@ -68,4 +68,4 @@ MIT
 ## Acknowledgments
 
 - Inspired by modern 3D configurators like those found on furniture e-commerce sites
-- Built with React Three Fiber for seamless 3D integration in React 
+- Built with React Three Fiber for seamless 3D integration in React
