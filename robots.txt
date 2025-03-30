@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /sitemap$
+Disallow: /cgi-bin/
+Sitemap: https://www.ikarusdelta.com/sitemap.xml
+
+Sitemap: https://www.ikarusdelta.com/sitemap.xml
